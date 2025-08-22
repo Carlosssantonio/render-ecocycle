@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring ecocycle
+  profiles:
+    active: prod #Cambia a 'developer', 'production' según corresponda
+  
